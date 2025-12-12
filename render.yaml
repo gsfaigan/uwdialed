@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: uwdialed-backend
+    env: python
+    plan: free
+    buildCommand: pip install -r src/backend/requirements.txt
+    startCommand: cd src/backend && gunicorn app:app --bind 0.0.0.0:$PORT --workers 2 --timeout 120
+    envVars:
+      - key: DB_HOST
+        value: riku.shoshin.uwaterloo.ca
+      - key: DB_NAME
+        value: SE101_Team_01
+      - key: DB_USER
+        sync: false
+      - key: DB_PASSWORD
+        sync: false
+      - key: PYTHON_VERSION
+        value: 3.11.0
+      - key: FLASK_ENV
+        value: production
+
