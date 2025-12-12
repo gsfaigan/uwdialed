@@ -21,10 +21,10 @@ load_dotenv(PROJECT_ROOT / ".env")
 
 # Database configuration now pulls username/password from the environment
 DB_CONFIG = {
-    'host': 'riku.shoshin.uwaterloo.ca',
+    'host': os.getenv('DB_HOST', ''),
     'user': os.getenv('DB_USER', ''),
     'password': os.getenv('DB_PASSWORD', ''),
-    'database': 'SE101_Team_01',
+    'database': os.getenv('DB_NAME', ''),
     'cursorclass': pymysql.cursors.DictCursor
 }
 
