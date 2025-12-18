@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎓 UWDialed
+# UWDialed
 
 **Discover Your Perfect Study Spot at the University of Waterloo**
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 📖 About
+## About
 
 UWDialed is a comprehensive web application designed to help University of Waterloo students discover the perfect study spots across campus. By combining intelligent recommendation algorithms with an interactive campus map, UWDialed makes finding your ideal study environment effortless.
 
@@ -25,15 +25,15 @@ Whether you're looking for a quiet corner for focused work, a collaborative spac
 
 ---
 
-## ✨ Features
+## Features
 
-### 🎯 **Personalized Recommendations**
+### **Personalized Recommendations**
 Complete a quick survey about your study preferences, and our intelligent recommendation engine will suggest the top study spots that match your needs perfectly.
 
-### 🗺️ **Interactive Campus Map**
+### **Interactive Campus Map**
 Explore study spots visually on an interactive Mapbox-powered map with precise locations and detailed markers, making it easy to navigate campus and find your next study destination.
 
-### 🔍 **Advanced Filtering & Sorting**
+### **Precise Filtering & Sorting**
 Powerful filtering options to find exactly what you need:
 
 | Filter Type | Options |
@@ -46,14 +46,14 @@ Powerful filtering options to find exactly what you need:
 
 Sort by name, busyness (ascending/descending), or noise level to customize your search.
 
-### ⭐ **Community Reviews**
+### **Community Reviews**
 Read and write reviews for study spots to help fellow students make informed decisions. Share your experiences, rate locations, and discover hidden gems across campus.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react&logoColor=white)
@@ -74,43 +74,31 @@ Read and write reviews for study spots to help fellow students make informed dec
 
 ---
 
-## 🎨 Key Highlights
+## Key Highlights
 
 <div align="center">
 
 | Metric | Value |
 |--------|-------|
-| 📍 **Study Spots** | 20+ locations across campus |
-| 🧪 **Test Coverage** | 94% code coverage (51 test cases) |
-| 🔌 **API Endpoints** | 7 RESTful endpoints |
-| 👥 **Team Size** | 5 developers |
-| 🚀 **Development** | 4 agile sprints |
-| ✅ **Sprint Completion** | 100% completion rate |
+| **Study Spots** | 20+ locations across campus |
+| **Test Coverage** | 94% code coverage (51 test cases) |
+| **API Endpoints** | 7 RESTful endpoints |
+| **Team Size** | 5 developers |
+| **Development** | 4 agile sprints |
+| **Sprint Completion** | 100% completion rate |
 
 </div>
 
-### 🏆 **Project Achievements**
-- ✅ **Comprehensive Testing**: 51 test cases covering all backend functionality
-- ✅ **High Code Quality**: 94% code coverage, exceeding the 70% requirement by 24%
-- ✅ **Full-Stack Implementation**: Complete React frontend with Flask backend
-- ✅ **Agile Development**: Successfully completed 4 sprints following SDLC
-- ✅ **Production Ready**: Deployed and live on Vercel
+### **Project Achievements**
+- **Comprehensive Testing**: 51 test cases covering all backend functionality
+- **High Code Quality**: 94% code coverage, exceeding the 70% requirement by 24%
+- **Full-Stack Implementation**: Complete React frontend with Flask backend
+- **Agile Development**: Successfully completed 4 sprints following SDLC
+- **Production Ready**: Deployed and live on Vercel
 
 ---
 
-## 📱 Live Application
-
-<div align="center">
-
-### 🌐 **The application is live and ready to use!**
-
-Visit the deployed site to start discovering your perfect study spot.
-
-</div>
-
----
-
-## 👥 Development Team
+## Development Team
 
 This project was developed collaboratively by a team of **5 students** following:
 - **Agile Development** practices with sprint planning and retrospectives
@@ -120,34 +108,34 @@ This project was developed collaboratively by a team of **5 students** following
 
 ---
 
-## 📚 Project Documentation
+## Project Documentation
 
 | Document | Description |
 |----------|-------------|
-| 📘 [User Manual](docs/user_manual.md) | Detailed user instructions and guide |
-| 📋 [Project Charter](docs/charter.md) | Project scope, objectives, and timeline |
-| 🧪 [Test Report](docs/test_report.md) | Testing details and 94% coverage report |
-| 🔌 [API Documentation](src/backend/README.md) | Complete API endpoint reference |
+| [User Manual](docs/user_manual.md) | Detailed user instructions and guide |
+| [Project Charter](docs/charter.md) | Project scope, objectives, and timeline |
+| [Test Report](docs/test_report.md) | Testing details and 94% coverage report |
+| [API Documentation](src/backend/README.md) | Complete API endpoint reference |
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 
 UWDialed was created with the following objectives:
 
-- ⏱️ **Save Time**: Help students quickly find suitable study locations
-- 🎓 **Enhance Experience**: Improve academic experience, especially for first-year students
-- 📊 **Data-Driven**: Provide recommendations based on real campus information
-- 🤝 **Community**: Create a platform for shared experiences through reviews
+- **Save Time**: Help students quickly find suitable study locations
+- **Enhance Experience**: Improve academic experience, especially for first-year students
+- **Data-Driven**: Provide recommendations based on real campus information
+- **Community**: Create a platform for shared experiences through reviews
 
 ---
 
 <div align="center">
 
-### **Built with ❤️ for the University of Waterloo community
+### **Built with ❤️ for the University of Waterloo community**
 
 ---
 
-**Made by Team 1 • SE101 Fall 2025**
+**Made by project_team_01 - SE101 Fall 2025**
 
 </div>
