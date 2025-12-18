@@ -106,8 +106,6 @@ Read and write reviews for study spots to help fellow students make informed dec
 
 Visit the deployed site to start discovering your perfect study spot.
 
-*[Add your Vercel deployment URL here]*
-
 </div>
 
 ---
