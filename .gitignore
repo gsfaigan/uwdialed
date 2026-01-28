@@ -33,8 +33,6 @@ htmlcov/
 # Logs
 *.log
 
-# Ignore any env files
-*.env
-*.env.*
+# Ignore env files named .env anywhere
 **/.env
 
