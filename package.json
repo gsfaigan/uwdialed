@@ -1,0 +1,11 @@
+{
+  "name": "uwdialed",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev:all": "concurrently \"/Users/gabrielfaigan/Documents/dev_folders/uwdialed/.venv/bin/python src/backend/app.py\" \"npm --prefix src/frontend start\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.0"
+  }
+}
